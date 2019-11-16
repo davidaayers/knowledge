@@ -9,11 +9,16 @@
                                         |___/    
   Things I Know, Want To Know, or Want To Remember                                        
 ```
+
 # Learning/Research Repo
 
-I'm going to try to use the [wiki functionality](https://github.com/davidaayers/knowledge/wiki) in Github to organize this information.
+* [Knowledge Wiki](https://github.com/davidaayers/knowledge/wiki)
 
-Inspired by:
+# Quick Links
+
+* [2019 Books](https://github.com/davidaayers/knowledge/wiki/2019-Books)
+
+# Inspired by:
 
 * https://github.com/kylecoberly/knowledge/wiki
 * https://github.com/kimschles/schlesinger-knowledge/wiki
