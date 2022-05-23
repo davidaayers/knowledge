@@ -16,7 +16,7 @@
 
 # Quick Links
 
-* [2020 Books](https://github.com/davidaayers/knowledge/wiki/2020-Books)
+* [2022 Books](https://github.com/davidaayers/knowledge/wiki/2022-Books)
 
 # Inspired by:
 
