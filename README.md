@@ -14,9 +14,14 @@
 
 * [Knowledge Wiki](https://github.com/davidaayers/knowledge/wiki)
 
-# Quick Links
+# Books I've Read
 
+* [2019 Books](https://github.com/davidaayers/knowledge/wiki/2019-Books)
+* [2020 Books](https://github.com/davidaayers/knowledge/wiki/2020-Books)
+* [2021 Books](https://github.com/davidaayers/knowledge/wiki/2021-Books)
 * [2022 Books](https://github.com/davidaayers/knowledge/wiki/2022-Books)
+* [2023 Books](https://github.com/davidaayers/knowledge/wiki/2023-Books)
+* [2024 Books](https://github.com/davidaayers/knowledge/wiki/2024-Books)
 
 # Inspired by:
 
