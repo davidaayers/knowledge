@@ -22,6 +22,7 @@
 * [2022 Books](https://github.com/davidaayers/knowledge/wiki/2022-Books)
 * [2023 Books](https://github.com/davidaayers/knowledge/wiki/2023-Books)
 * [2024 Books](https://github.com/davidaayers/knowledge/wiki/2024-Books)
+* [2025 Books](https://github.com/davidaayers/knowledge/wiki/2025-Books)
 
 # Inspired by:
 
